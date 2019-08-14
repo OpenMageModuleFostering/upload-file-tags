@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/upload-file-tags",
+    "type": "magento-module",
+    "license": "open-source",
+    "homepage": "",
+    "description": "test",
+    "authors": [
+    {
+        "name": "Vitaly",
+        "email": "v.morozov@interesnee.ru"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

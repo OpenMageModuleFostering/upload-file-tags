@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>upload-file-tags</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license>open source</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>test</summary>
+    <description>test</description>
+    <notes>test</notes>
+    <authors><author><name>Vitaly</name><user>Vitaly</user><email>v.morozov@interesnee.ru</email></author></authors>
+    <date>2014-06-19</date>
+    <time>08:54:38</time>
+    <contents><target name="magelocal"><dir name="Freaks"><dir><dir name="Quotes"><dir name="Block"><dir name="Adminhtml"><dir name="Edit"><file name="Form.php" hash="cc87c7842fa29e951e0aab9c4a3159fd"/></dir><file name="Edit.php" hash="7d6dd8f97368adc16d1e7d4d08778bd7"/><dir name="Quotes"><file name="Grid.php" hash="c8917404c387757ecfb45de73aee66e4"/></dir><file name="Quotes.php" hash="b83e8a10619c25828e42bf729b3ba417"/></dir><file name="Content.php" hash="629da41c84fa0c872475b08a73660efb"/><dir name="Quote"><file name="Content.php" hash="c4048e9054a7d15021d56f431ad6ea8c"/></dir></dir><dir name="Helper"><file name="Data.php" hash="db40438ce5ff268f6fcab95de55fa3b2"/></dir><dir name="Model"><file name="Quote.php" hash="8f0e8a8782914ad3e3effaefa48ee988"/><dir name="Resource"><dir name="Quote"><file name="Collection.php" hash="b9603de0a76a4b6fbce0239393ba65bc"/></dir><file name="Quote.php" hash="9263ac9fc539b8be1a804315de79ff7b"/></dir></dir><dir name="controllers"><dir name="Adminhtml"><file name="QuotesController.php" hash="65143799b4ce9332eb06e02eb38ca6cf"/></dir><file name="IndexController.php" hash="0c2799665be433b46943628b9949e8b6"/></dir><dir name="etc"><file name="adminhtml.xml" hash="08a8f1faa12a4e62ebcb077d6512d838"/><file name="config.xml" hash="04b216ee364de10f715e3ee9e5f7c48c"/></dir><dir name="sql"><dir name="quotes_setup"><file name="mysql4-install-0.1.0.php" hash="7c3a76fcb789119054626e0f821103d4"/></dir></dir></dir></dir></dir><dir name="Magestore"><dir><dir name="Fgrid"><dir name="Block"><file name="Fgrid.php" hash="4912be1bc6af98feaea65f4b078d4ede"/></dir><dir name="Helper"><file name="Data.php" hash="f1606b88b5e07d1a4f2f3c3a45ebefff"/></dir><dir name="Model"><file name="Fgrid.php" hash="273d7832b7f3ade3a222ed6d57f28b0d"/><dir name="Mysql4"><dir name="Fgrid"><file name="Collection.php" hash="0aa4cf0d88a89de990298ddcb6d6e3f5"/></dir><file name="Fgrid.php" hash="18a75313218f2460168951519f9819cf"/></dir><file name="Status.php" hash="818d0af801f97d9001d3573a5ab02271"/></dir><dir name="controllers"><file name="IndexController.php" hash="fd55c4ab6062a3cc2892472c4477a28e"/></dir><dir name="etc"><file name="config.xml" hash="d8b610f42b835be9db986613defbcf16"/></dir><dir name="sql"><dir name="fgrid_setup"><file name="mysql4-install-0.1.0.php" hash="f0a9f96bcaa824875accf08537d0250f"/></dir></dir></dir><dir name="etc"><file name="config.xml" hash="61a71d0d1bdfe0997e50e8bea8d7c11d"/></dir></dir></dir><dir name="frontend"><dir name="default"><dir name="default"><file name="fgrid.xml" hash=""/><dir name="layout"><file name="fgrid.xml" hash=""/></dir></dir></dir></dir><dir name="modules"><file name="Magestore_Fgrid.xml" hash=""/></dir></target><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><dir name="freaks"><file name="quotes.xml" hash="b2e8e5bcf917e273d000038d68cd3244"/></dir><file name="fgrid.xml" hash="529c16d57bd2e9fc7bbf8f9674fb47ce"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Freaks_All.xml" hash="d94fcb7e6f8955c964839aeeb41a26b3"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.0</min><max>5.4.13</max></php></required></dependencies>
+</package>

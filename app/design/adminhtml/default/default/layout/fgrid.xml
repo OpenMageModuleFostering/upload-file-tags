@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <fgrid_adminhtml_fgrid_index>
+        <reference name="content">
+            <block type="fgrid/adminhtml_fgrid" name="fgrid" />
+        </reference>
+    </fgrid_adminhtml_fgrid_index>
+</layout>
