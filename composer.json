@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "open-source",
     "homepage": "",
-    "description": "test",
+    "description": "upload files & set tags",
     "authors": [
     {
         "name": "Vitaly",

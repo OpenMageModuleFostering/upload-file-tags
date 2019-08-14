@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Freaks_Quotes>
-            <version>0.1.0</version>
+            <version>0.1.1</version>
         </Freaks_Quotes>
     </modules>
     <global>
@@ -51,24 +51,6 @@
             </quotes_read>
         </resources>
     </global>
-    <frontend>
-        <routers>
-            <Freaks_Quotes>
-                <use>standard</use>
-                <args>
-                    <module>Freaks_Quotes</module>
-                    <frontName>quotes</frontName>
-                </args>
-            </Freaks_Quotes>
-        </routers>
-        <layout>
-            <updates>
-                <freaks_quotes>
-                    <file>freaks/quotes.xml</file>
-                </freaks_quotes>
-            </updates>
-        </layout>
-    </frontend>
     <adminhtml>    
         <layout>
             <updates>

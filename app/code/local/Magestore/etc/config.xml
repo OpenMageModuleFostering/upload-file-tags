@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Magestore_>
-            <version>0.1.0</version>
+            <version>0.1.1</version>
         </Magestore_>
     </modules>
     <admin>
