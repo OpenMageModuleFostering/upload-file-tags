@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/upload-file-tags",
+    "name": "OpenMageModuleFostering\/upload-file-tags",
     "type": "magento-module",
     "license": "open-source",
     "homepage": "",
     "description": "upload files & set tags",
     "authors": [
-    {
-        "name": "Vitaly",
-        "email": "v.morozov@interesnee.ru"
-    }
-],
+        {
+            "name": "Vitaly",
+            "email": "v.morozov@interesnee.ru"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
